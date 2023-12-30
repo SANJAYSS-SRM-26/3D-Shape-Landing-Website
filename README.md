@@ -1,5 +1,5 @@
 # 3D-Shape-Landing-Website
-This repository contains the code for a visually stunning landing website showcasing 3D shapes using web technologies such as HTML, CSS, and JavaScript.
+This repository contains the code for a visually stunning landing website named 3D shapes using web technologies such as HTML, CSS, and JavaScript.
 
 # Features:
 HTML/CSS: The structure and styling are crafted using semantic HTML5 and CSS3, ensuring responsiveness and a visually appealing layout across devices.
