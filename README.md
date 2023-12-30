@@ -5,8 +5,9 @@ This repository contains the code for a visually stunning landing website named 
 HTML/CSS: The structure and styling are crafted using semantic HTML5 and CSS3, ensuring responsiveness and a visually appealing layout across devices.
 Smooth Animations: Incorporates smooth transitions and animations to enhance user engagement and provide a seamless browsing experience.
 
-# Preview;
+# Preview:
 ![landingpage](https://github.com/SANJAYSS-SRM-26/3D-Shape-Landing-Website/blob/main/preview%20(4).png)
+
 # Usage:
 Feel free to clone or fork this repository to explore the code, learn about 3D modeling on the web, or even integrate and modify the project for your own purposes. Follow the README instructions for setup and deployment.
 
